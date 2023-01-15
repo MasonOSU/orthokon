@@ -11,7 +11,7 @@ from pygame import K_ESCAPE, KEYDOWN, MOUSEBUTTONDOWN, MOUSEMOTION, MOUSEBUTTONU
 
 class Game:
     """imports object states from other classes;
-    runs main logic"""
+    runs main logic... test commit"""
 
     def __init__(self):
         pg.display.init()
